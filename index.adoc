@@ -1,0 +1,51 @@
+:toc: 
+
+== Mozart’s Fortieth Symphony: Resources
+
+=== Video links
+
+==== First movement exposition
+
+[width="100%",cols="<4,>1",options="header",]
+|===
+|YouTube title | end of exposition time
+|https://www.youtube.com/watch?v=Xql3pcjUkeQ[Mozart: Symphony No. 40
+\| Andris Nelsons & the Leipzig Gewandhaus Orchestra] |1:59
+
+|https://www.youtube.com/watch?v=z_4jMxbwmVc[Mozart: Symphony No. 40
+\| Nikolaus Harnoncourt & Concentus Musicus] |1:50
+
+|https://www.youtube.com/watch?v=OaWq9VfWU5A[Mozart – Symphonie Nr. 40
+\| Simon Rattle \| BRSO] |1:46
+
+|https://www.youtube.com/watch?v=Lk01TQnxsMk[Lucerne Festival: Mozart -
+Symphony No. 40 (Berliner Philharmoniker&#44; Simon Rattle)] |2:03
+
+|https://www.youtube.com/watch?v=rcI9z0z9Ae4[Mozart - Sinfonie Nr. 40
+\| Adam Fischer \| WDR Sinfonieorchester] |1:52
+
+|https://www.youtube.com/watch?v=N1cexwLOvtY[Mozart: Symphony No. 40 in
+G minor K. 550 \| CAMERATA Salzburg] |2:07
+
+|https://www.youtube.com/watch?v=CJkUpFWAIm4[Mozart’s Symphony No. 40 –
+performed live by the London Mozart Players (whole piece)] |2:03
+
+|https://www.youtube.com/watch?v=FGOJpEIDDow[Mozart: Symphony No.40 /
+Heras-Casado · Karajan-Academy of the Berliner Philharmoniker] |2:13
+
+|https://www.youtube.com/watch?v=jzUJWDU_1Rg[W. A. Mozart: Symphony nº
+40 - Dima Slobodeniouk - Sinfónica de Galicia] |2:17
+
+|https://www.youtube.com/watch?v=3Qfea-UKPh8[Mozart : Symphonie n°40 en
+sol mineur K 550] |1:57
+
+|https://www.youtube.com/watch?v=wqkXqpQMk2k[Mozart - Symphony No. 40 in
+G minor&#44; K. 550 (Julien Salemkour & Staatskapelle Berlin)] |2:13
+
+|https://www.youtube.com/watch?v=QyQ-POuTNn8[Mozart: Sinfonie Nr. 40
+g-Moll KV 550 ∙ hr-Sinfonieorchester ∙ Andrés Orozco-Estrada] |2:13
+|===
+
+### Slides
+
+link:pdf/mozart_s_40th_lecture_1.pdf[Lecture 1]
