@@ -1,14 +1,18 @@
-:toc: 
+:toc: left
+:toclevels: 4
 
 == Mozart’s Fortieth Symphony: Resources
 
 === Video links
 
-==== First movement exposition
+==== Performances
+
+A playlist with all these performances may be found here: +
+https://youtube.com/playlist?list=PLWYQnWXy1JYQ&si=gB5gGvoAZU_L1Ho7
 
 [width="100%",cols="<4,>1",options="header",]
 |===
-|YouTube title | end of exposition time
+|YouTube title | end of first-movement exposition time
 |https://www.youtube.com/watch?v=Xql3pcjUkeQ[Mozart: Symphony No. 40
 \| Andris Nelsons & the Leipzig Gewandhaus Orchestra] |1:59
 
@@ -46,6 +50,14 @@ G minor&#44; K. 550 (Julien Salemkour & Staatskapelle Berlin)] |2:13
 g-Moll KV 550 ∙ hr-Sinfonieorchester ∙ Andrés Orozco-Estrada] |2:13
 |===
 
-### Slides
+==== Recordings with scores
+
+- https://youtu.be/kv3JWWkdSs8?si=TJtezC0j0LMLLEV2 +
+(This one is especially helpful: it contains highlights and labels for the different sections of each movement.)
+- https://youtu.be/-Iz-ah9ka3c?si=h9Ql41VAyCrMif90
+- https://youtu.be/bISLFe5Fo_Q?si=vtZLLE4efe2vCUDQ
+- https://youtu.be/bfoSKrwRnOE?si=jeoJc0W-BB7y2nOh
+
+=== Slides
 
 link:pdf/mozart_s_40th_lecture_1.pdf[Lecture 1]
